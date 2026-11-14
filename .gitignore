@@ -1,0 +1,10 @@
+/out/
+/vcpkg_installed/
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+voting_system.sqlite
+.vs/
+x64/
+Debug/
+Release/
